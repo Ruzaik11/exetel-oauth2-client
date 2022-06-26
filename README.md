@@ -7,11 +7,11 @@
 
 Create a REST API in Laravel which has the OAuth2 authentication module which includes CRUD operations with the respective HTTP verbs.
 
-** Tech Stack Used **
+**Tech Stack Used**
 
-Vuejs
+Vue.js
 
-** Setup Guid for front end ***
+**Setup Guide for front end***
 
 the generated Client ID and Client secret keys needs to be added to .env file in the root directory for a successful authentication
 
