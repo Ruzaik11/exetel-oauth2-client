@@ -17,6 +17,8 @@ the generated Client ID and Client secret keys needs to be added to .env file in
 
 OAUTH_CLIENT_ID in the .env file should be assigned with Client ID and the OAUTH_CLIENT_SECRET with the Client secret
 
+OAUTH_SERVER is the server url we used to access the oauth server after running php artisan serve command
+
 **Commands to run**
 
 - 01: ``` npm install && npm run serve ```
